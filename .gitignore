@@ -33,6 +33,7 @@
 
 # ROS
 devel/
+install/
 logs/
 build/
 bin/
@@ -51,3 +52,6 @@ devel_isolated/
 *.pyc
 qtcreator-*
 *.user
+
+cmake-build-debug/ 
+.idea/
